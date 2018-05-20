@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 [image2]: ./writeup_images/sign_before_normal.png "Before Normalization"
 [image3]: ./writeup_images/sign_after_normal.png "After Normalization"
 [image4]: ./test/images?q=tbn:ANd9GcTSzZj1ZMmeVFCnaRi5B3p_aW3NF5kYkskYRrkF0IcL175cJqkX3Q "Traffic Sign 1"
-[image5]: ./test/30-mph-sign-mikecogh.jpg?h=468 "Traffic Sign 2"
+[image5]: ./test/30-mph-sign-mikecogh.jpg "Traffic Sign 2"
 [image6]: ./test/100_1607_small.jpg "Traffic Sign 3"
 [image7]: ./test/64914157-german-road-sign-slippery-road.jpg "Traffic Sign 4"
 [image8]: ./test/images?q=tbn:ANd9GcSF1z49fQZWTqzOD2IXgs2ZheMMqA6UNALlGyHGvxFI96noXtVW "Traffic Sign 5"
